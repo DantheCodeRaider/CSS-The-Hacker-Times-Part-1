@@ -16,7 +16,6 @@ h6 {
     font-size: .6em;
 }
 
-
 .navlink {
     text-decoration: none;
     color: #777;
@@ -83,4 +82,10 @@ section {
 
 #author {
     color: #dd3232;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
